@@ -1,7 +1,7 @@
 ### Hi, I am Korhan
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/korhan-kilinckaya)
-[![Upwork Badge](https://img.shields.io/badge/-Upwork-0e76a8?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0140fbbc33cc72a945)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-0e76a8?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0140fbbc33cc72a945?viewMode=1)
 
 I'm a Senior Full-Stack Software Engineer graduate with Computer Science degree
 

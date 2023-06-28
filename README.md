@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I am Korhan
 
-<!--
-**korhankilinckaya/korhankilinckaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ocetin)
 
-Here are some ideas to get you started:
+I'm a Senior Full-Stack Software Engineer graduate with Computer Science degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The tech-stack I experienced most is the Java (mostly 8-11), Angular, SpringBoot, Restful services, Hibernate and various database applications. Git as a repository management, maven and npm as a package and dependency management.
+
+I worked mostly on Agile managed teams and projects with the CI/CD processes. I have an Agile mindset and Agile leadership contributions in the past projects.
+
+:cyclone: **Certifications**
+- :triangular_flag_on_post: [SAFe Scaled Agile](https://www.youracclaim.com/badges/16d5c52f-aaf0-4823-92a4-10b526de3068/linked_in) (Expires on 2022)
+
+- 🔭 I’m currently working as a freelancer on Upwork
+- 🌱 I’m currently learning AWS, Kubernetes, Docker
+- 📫 How to reach me: korhankilinckaya@gmail.com
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korhankilinckaya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korhankilinckaya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>

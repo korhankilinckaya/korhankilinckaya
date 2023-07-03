@@ -9,7 +9,7 @@ The tech-stack I experienced most is the Java (mostly 8-11), Angular, SpringBoot
 
 I worked mostly on Agile managed teams and projects with the CI/CD processes. I have an Agile mindset and Agile leadership contributions in the past projects.
 
-- 🔭 I’m currently working as a freelancer on Upwork
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning AWS, Kubernetes, Docker
 - 📫 How to reach me: korhankilinckaya@gmail.com
 

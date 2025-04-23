@@ -10,7 +10,7 @@ The tech-stack I experienced most is the Java (mostly 8-11), Angular, SpringBoot
 I worked mostly on Agile managed teams and projects with the CI/CD processes. I have an Agile mindset and Agile leadership contributions in the past projects.
 
 - 🔭 I’m currently working as a Senior Full-Stack Software Engineer
-- 🌱 I’m currently learning AWS, Kubernetes, Docker
+- 🌱 I’m currently learning AWS certified developer associate
 - 📫 How to reach me: korhankilinckaya@gmail.com
 
 📈 **My GitHub Stats:**

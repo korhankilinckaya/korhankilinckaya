@@ -4,7 +4,7 @@
 
 I'm a Senior Full-Stack Software Engineer graduate with Computer Science degree
 
-The tech-stack I experienced most is the Java (mostly 8-11), Angular, SpringBoot, Restful services, Hibernate and various database applications. Git as a repository management, maven and npm as a package and dependency management.
+I am Certified AWS Developer Associate and The tech-stack I experienced most is AWS, Java, Angular, SpringBoot, Restful services, Hibernate and various database applications. Git as a repository management, maven and npm as a package and dependency management.
 
 I worked mostly on Agile managed teams and projects with the CI/CD processes. I have an Agile mindset and Agile leadership contributions in the past projects.
 
